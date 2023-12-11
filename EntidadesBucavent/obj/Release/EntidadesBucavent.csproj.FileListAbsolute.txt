@@ -1,0 +1,6 @@
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Release\EntidadesBucavent.dll
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Release\EntidadesBucavent.pdb
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Release\EntidadesBucavent.csprojAssemblyReference.cache
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Release\EntidadesBucavent.csproj.CoreCompileInputs.cache
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Release\EntidadesBucavent.dll
+D:\Users\USER\Downloads\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Release\EntidadesBucavent.pdb

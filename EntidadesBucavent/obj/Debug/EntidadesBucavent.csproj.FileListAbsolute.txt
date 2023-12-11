@@ -1,0 +1,24 @@
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.dll
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.pdb
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csprojAssemblyReference.cache
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csproj.CoreCompileInputs.cache
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.dll
+D:\Users\USER\Pictures\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.pdb
+F:\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.dll
+F:\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.pdb
+F:\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csprojAssemblyReference.cache
+F:\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csproj.CoreCompileInputs.cache
+F:\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.dll
+F:\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.pdb
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.dll
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.pdb
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csprojAssemblyReference.cache
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csproj.CoreCompileInputs.cache
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.dll
+F:\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.pdb
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.dll
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\bin\Debug\EntidadesBucavent.pdb
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csprojAssemblyReference.cache
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.csproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.dll
+C:\Users\Personal\OneDrive\Documentos\Semestres U\Copia de seguridad\Proyecto I\Proyecto Bucavent\Bucavent\EntidadesBucavent\obj\Debug\EntidadesBucavent.pdb
